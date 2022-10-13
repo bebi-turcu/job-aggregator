@@ -4,7 +4,7 @@
   <a href="https://packagist.org/packages/laravel-zero/framework"><img src="https://img.shields.io/packagist/l/laravel-zero/framework.svg" alt="License"></a>
 </p>
 
-<h4 align="center">A **CLI application** for aggregating jobs from data feeds</h4>
+<h4 align="center">A <strong>CLI application</strong> for aggregating jobs from data feeds</h4>
 
 Built using the [Laravel Zero](https://laravel-zero.com/) micro-framework, this basic project provides a console command
 to be run periodically as a cron job. It works by connecting to multiple pre-defined feed endpoints, parsing data read
