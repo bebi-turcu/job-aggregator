@@ -1,0 +1,7 @@
+id,job_title,job_description,company,posted_date,cpc_value
+111,"Job 1 title","job1 descr",Company 1,"2022-08-23",1006
+222,"Job 2 title","job2 descr, contains commas &
+    newlines","Company 2",12-07-2022,1010
+
+333,"Job 3 no descr",,"Company 3",03-04-2021,999
+empty row

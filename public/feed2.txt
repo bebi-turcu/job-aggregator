@@ -1,0 +1,4 @@
+company,job_title,job_description,posted_date,cpc_value,remote
+"Company 1","Job 1 title","job1 descr","2022-10-09",1027,yes
+Company4,"Job 4","Job 4 descr",30-04-2022,79,no
+Company5,"Job 5","Job 5 descr",30-04-2022,77,no
